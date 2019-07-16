@@ -99,7 +99,7 @@ namespace Array
                 }
             }
             */
-
+            Console.WriteLine("array xesqudele");
             #endregion
 
         }
