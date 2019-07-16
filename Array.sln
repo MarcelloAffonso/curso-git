@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{475712AE-0520-4A7C-87C1-53E155D187E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listas", "..\Lista\Listas\Listas.csproj", "{72A421FC-4146-4DC9-BF60-168A2C342958}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioLista", "..\ExercicioLista\ExercicioLista\ExercicioLista.csproj", "{16BC9ACE-E6DA-4CE6-ABC1-E46B2E7CD3C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matriz", "..\Matriz\Matriz\Matriz.csproj", "{CA8FA1E1-347D-40C3-BAA8-48BA6017F4EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conjuntos", "..\Conjuntos\Conjuntos\Conjuntos.csproj", "{923113CD-CF52-49CF-B3FC-5049DAD29602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeravel", "..\Enumeravel\Enumeravel\Enumeravel.csproj", "{5FAC3131-8344-4912-9583-DDA4837E04F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475712AE-0520-4A7C-87C1-53E155D187E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475712AE-0520-4A7C-87C1-53E155D187E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475712AE-0520-4A7C-87C1-53E155D187E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475712AE-0520-4A7C-87C1-53E155D187E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A421FC-4146-4DC9-BF60-168A2C342958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A421FC-4146-4DC9-BF60-168A2C342958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A421FC-4146-4DC9-BF60-168A2C342958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A421FC-4146-4DC9-BF60-168A2C342958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BC9ACE-E6DA-4CE6-ABC1-E46B2E7CD3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BC9ACE-E6DA-4CE6-ABC1-E46B2E7CD3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BC9ACE-E6DA-4CE6-ABC1-E46B2E7CD3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BC9ACE-E6DA-4CE6-ABC1-E46B2E7CD3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8FA1E1-347D-40C3-BAA8-48BA6017F4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8FA1E1-347D-40C3-BAA8-48BA6017F4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8FA1E1-347D-40C3-BAA8-48BA6017F4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8FA1E1-347D-40C3-BAA8-48BA6017F4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923113CD-CF52-49CF-B3FC-5049DAD29602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923113CD-CF52-49CF-B3FC-5049DAD29602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923113CD-CF52-49CF-B3FC-5049DAD29602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923113CD-CF52-49CF-B3FC-5049DAD29602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FAC3131-8344-4912-9583-DDA4837E04F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAC3131-8344-4912-9583-DDA4837E04F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAC3131-8344-4912-9583-DDA4837E04F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAC3131-8344-4912-9583-DDA4837E04F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CAB9E66-9003-4487-A4FD-C04DB6CB0838}
+	EndGlobalSection
+EndGlobal
