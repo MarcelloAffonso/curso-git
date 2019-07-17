@@ -100,7 +100,12 @@ namespace Array
             }
             */
 
-            Console.WriteLine("Mensagem pro GiHub");
+            #endregion
+
+            #region 
+            // códigos teste para o github
+
+            Console.WriteLine("Linux é um cocô");
             #endregion
 
         }
