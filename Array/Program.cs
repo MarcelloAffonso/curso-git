@@ -99,7 +99,8 @@ namespace Array
                 }
             }
             */
-            Console.WriteLine("array xesqudele");
+
+            Console.WriteLine("Mensagem pro GiHub");
             #endregion
 
         }
